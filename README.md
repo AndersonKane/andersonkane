@@ -1,6 +1,6 @@
 ### Hello World! 😍
 
-<img src = "https://media.giphy.com/media/Ssl7NOJ8XXU9MBipBH/source.gif">
+<img src = https://media.giphy.com/media/Ssl7NOJ8XXU9MBipBH/giphy.gif>
 
 #### Template Source Code
 Made by [Satvik Chachra](https://github.com/satvikchachra)
