@@ -2,10 +2,8 @@
 
 <img src = "./readme.gif">
 
-#### Dev.to Tutorial Link:
-<pre><b><a href="https://dev.to/satvikchachra/how-to-add-an-awesome-readme-to-your-github-profile-361n">How to add an awesome README to your GitHub Profile</a></b></pre>
-
-##### Made with ❤️ by [Satvik Chachra](https://github.com/satvikchachra)
+#### Template Source Code
+Made by [Satvik Chachra](https://github.com/satvikchachra)
 
 <!--
 **AndersonKane/andersonkane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
