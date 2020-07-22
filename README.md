@@ -1,6 +1,6 @@
 ### Hello World! 😍
 <div align ="center">
-    <img src = https://media.giphy.com/media/Ssl7NOJ8XXU9MBipBH/giphy.gif width ="200px">
+    <img src = https://media.giphy.com/media/Ssl7NOJ8XXU9MBipBH/giphy.gif width ="800px">
 </div>
 
 #### Template Source Code
